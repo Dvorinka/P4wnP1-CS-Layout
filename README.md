@@ -2,5 +2,5 @@
        (https://github.com/RoganDawes/P4wnP1_aloa)
 
 ### Installation
-SSH into your Raspberry Pi Zero W(H)  `ssh root@172.16.0.1`.
+SSH into your Raspberry Pi Zero W(H)  `ssh root@172.16.0.1`.<br>
 For the password enter `toor`.
