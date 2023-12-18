@@ -3,8 +3,8 @@
 
 ### Installation
 <ol>
-SSH into your Raspberry Pi Zero W(H)  `ssh root@172.16.0.1`.
-For the password enter `toor`.
-Use the ls command to see the directories `ls`.
-Then cd into the P4wnP1 directory `cd P4wnP1`.
+  <li>SSH into your Raspberry Pi Zero W(H)  `ssh root@172.16.0.1`.</li>
+  <li>For the password enter `toor`.</li>
+  <li>Use the ls command to see the directories `ls`.</li>
+  <li>Then cd into the P4wnP1 directory `cd P4wnP1`.</li>
 </ol>
